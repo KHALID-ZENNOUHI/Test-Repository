@@ -1,8 +1,4 @@
-# Test-Repository
-it's a repository for test
-# Test-Repository
-it's a repository for test
-/* Git command */
+Git command 
 first of all you need to create a repository in github at least you can initialize your project with the command : 
 git init
 after that you need to stage changes for commit to do that we use :
